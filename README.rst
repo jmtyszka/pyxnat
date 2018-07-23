@@ -1,4 +1,7 @@
-The homepage of pyxnat with user documentation is located on:
+# Python 3 Support
+This fork attempts to port the python 2.6+ version of pyxnat to python 3.6
+
+The original homepage of pyxnat for python 2 with user documentation is located on:
 
 http://packages.python.org/pyxnat/
 
